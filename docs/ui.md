@@ -2,6 +2,8 @@
 
 La aplicación tendrá la siguientes pantallas
 
+Las imagenes como el logo y demas usasdas son temporales mientras se decide un buen diseño para ellas
+
 1. Pantalla
 
    1: Pantalla de incio
