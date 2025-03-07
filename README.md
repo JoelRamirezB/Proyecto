@@ -1,8 +1,8 @@
-# Nombre de la aplicación
+# CocinApp
 
-Reemplace este texto con una descripción de su aplicación.
+CocinApp es una aplicación móvil diseñada para recopilar, compartir y descubrir recetas de platillos populares. Su objetivo es proporcionar una experiencia intuitiva y visualmente atractiva para los amantes de la cocina, desde principiantes hasta expertos.
 
-Author: Nombre del estudiante
+Author: Joel Sebastian Ramirez Bermudez
 
 ## Referencias
 
